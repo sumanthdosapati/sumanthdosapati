@@ -38,7 +38,7 @@
 
 🔗 More about me: [My Website](https://sumanthdosapati.github.io/)
 ---
-<a href="https://github.com/iampawan">
+<a href="https://github.com/sumanthdosapati">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthdosapati&theme=light&hide_langs_below=1" />
 </a>
 ---
