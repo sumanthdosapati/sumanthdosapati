@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on... Android Development
 - 🌱 I’m currently learning... ServiceNow and Flutter
-- 🤔  2020 Goals... Contribute to more open source projects
+- 🤔  2021 Goals... Contribute to more open source projects
 - 💬 Ask me about... Android 
 - 😄 Pronouns... He/Him
 
