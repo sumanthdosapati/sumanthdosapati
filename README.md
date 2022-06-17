@@ -30,9 +30,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on... Android Development
-- 🌱 I’m currently learning... ServiceNow and Flutter
-- 🤔  2021 Goals... Contribute to more open source projects
+- 🔭 I’m currently working as... ServiceNow Developer
+- 🌱 Works on... Android and Flutter
+- 🤔  2022 Goals... Contribute to more open source projects
 - 💬 Ask me about... Android 
 - 😄 Pronouns... He/Him
 
