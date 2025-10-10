@@ -30,10 +30,9 @@
 <br/>
 
 
-- 🔭 I’m currently working as... ServiceNow Developer
-- 🌱 Works on... Android and Flutter
+- 🔭 I’m currently working as... ServiceNow Principal Consultant
 - 🤔  2025 Goals... Contribute to more open source projects
-- 💬 Ask me about... Android 
+- 💬 Ask me about... Android, ServiceNow
 - 😄 Pronouns... He/Him
 
 🔗 More about me: [My Website](https://sumanthdosapati.github.io/)
